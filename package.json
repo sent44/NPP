@@ -1,0 +1,22 @@
+{
+  "name": "Node-PHP-Plus",
+  "version": "0.0.1",
+  "description": "PHP in nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sent44/NPP.git"
+  },
+  "author": "sent44",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sent44/NPP/issues"
+  },
+  "homepage": "https://github.com/sent44/NPP",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
