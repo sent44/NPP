@@ -6,7 +6,7 @@ Install
 How to use?
 -----------
 	var app = require('express')();
-	var php = require("NPP");
+	var php = require("node-php-plus");
 
 	//app.get post use all or etc(file or dir [,option]);
 	app.use("/laravel", php.gen("laravel/index.php")); // forward to framwork

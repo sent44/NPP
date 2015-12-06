@@ -1,5 +1,5 @@
 {
-  "name": "Node-PHP-Plus",
+  "name": "node-php-plus",
   "version": "0.0.1",
   "description": "PHP in nodejs",
   "main": "app.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sent44/NPP.git"
+    "url": "git+https://git@github.com/sent44/NPP.git"
   },
   "author": "sent44",
   "license": "MIT",
